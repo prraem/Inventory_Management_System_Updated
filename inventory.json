@@ -1,0 +1,14 @@
+[
+  {
+    "product_id": "001",
+    "name": "Product A",
+    "quantity": 10,
+    "price": 20.5
+  },
+  {
+    "product_id": "002",
+    "name": "Product B",
+    "quantity": 3,
+    "price": 15.75
+  }
+]
